@@ -1,9 +1,9 @@
 # # CS112.L21.KHTN - Algorithm Analysis and Design
 ## 1. List members CS112.L21.KHTN.N11:
-| No. | Student ID | Full name | Class | Role |
-| --- | --- | --- | --- | --- |
-| 1 | 19522489 | [Đặng Quang Anh Tuấn](https://github.com/danganhtuan3738) | KHTN2019 | Leader |
-| 2 | 19521316 | [Nguyễn Hải Đăng](https://github.com/bdts1547) | KHTN2019 | Member | 
+| No. | Student ID | Full name | Class | Role | Practice |
+| --- | --- | --- | --- | --- | --- |
+| 1 | 19522489 | [Đặng Quang Anh Tuấn](https://github.com/danganhtuan3738) | KHTN2019 | Leader |     |
+| 2 | 19521316 | [Nguyễn Hải Đăng](https://github.com/bdts1547) | KHTN2019 | Member | [HackerRank](https://www.hackerrank.com/nguyendang1547?hr_r=1) |
 
 
 ## 2. Homework: bài tập thầy cho trên wecode
