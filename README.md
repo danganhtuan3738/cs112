@@ -40,4 +40,4 @@
 
 ## 4. Seminar: Practice(1)
 - **Slide Practice(1)**: [PDF](https://github.com/bdts1547/CS112.L21.KHTN_N11/tree/main/Seminar)
-
+- **Seminar report**: [docx](https://github.com/bdts1547/CS112.L21.KHTN_N11/tree/main/Seminar/note_seminar)**, ** [docx](https://github.com/bdts1547/CS112.L21.KHTN_N11/tree/main/Seminar/report_work)
